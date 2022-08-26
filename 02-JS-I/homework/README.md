@@ -21,3 +21,9 @@
 4. Una vez que termines cada homework, súbela a tu repositorio `Prep.Course`, con los comandos que ya aprendiste a usar en la primera lección de git.
 
 ### Aca tendras acceso a las [Soluciones](https://github.com/atralice/Curso.Prep.Henry/blob/solution/02-JS-I/homework/homework.js)
+
+Variables: guardar algo en un lugar donde despues pueda recuperarlo de alguna forma.
+Strings: Hilo de caracteres, limitados por comillas.
+Funciones: Agrupa codigo lo guarda, para ejecutar luego.
+Declaracione:  Poder hacer preguntas y poder ir ejecutando distintos codigos segun ciertas condiciones.
+Valores booleanos: usamos booleanos para significar si es verdadero o falso.
