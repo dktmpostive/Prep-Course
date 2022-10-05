@@ -1,0 +1,2 @@
+## **CallBack:
+Los callbacks son funciones que se pasan como argumentos de otras funciones para poder ser utilizadas, lo hacemos usando cb, se podria pensar que es una manera de agrupar metodos que compartan un mismo fin. 
