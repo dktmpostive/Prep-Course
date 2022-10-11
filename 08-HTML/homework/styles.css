@@ -1,0 +1,26 @@
+h1 {
+    color: black;
+    font-size: 20px;
+}
+img {
+    width: 600px;
+    margin: 0px auto;
+}
+#thirdDiv {
+    width: 600px;
+    margin: 0px auto;
+    background-color:rgb(0, 217, 255);
+    padding: 50px;
+    border: 2px solid red;
+}
+#spanId {
+    font-size: 18px;
+}
+.divClass1 {
+    width: 600px;
+    margin: 0px auto;
+}
+.divClass2 {
+    width: 600px;
+    margin: 0px auto;
+}
